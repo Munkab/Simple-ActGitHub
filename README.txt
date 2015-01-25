@@ -42,3 +42,20 @@
 19. Commit de mon fichier README.txt
 
 20. Envoie de mon fichier au remote GitHub
+
+21. Modification de mon fichier README.txt
+
+22. Téléchargement du fichier texte de l'activité pratique
+
+23. Commit de mon fichier README.txt
+
+24. Insertion de l'URL de mon repository dans en dessous de celui de Marc GG dans le fichier texte téléchargé
+
+25. Compression du fichier texte au format .zip
+
+26. Envoie du fichier texte au format .zip 
+
+*----------------------FIN---------------------*
+
+
+
